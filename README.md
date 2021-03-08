@@ -1,7 +1,7 @@
 ![Screenshot](public/img/page.png)
 ![Screenshot](public/img/page2.png)
 
-## Simple shop example
+## Simple responsive shop example
 
 Made with laravel, tailwindcss and livewire.
 
