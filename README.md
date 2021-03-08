@@ -1,6 +1,9 @@
+![Screenshot](public/img/page.png)
+![Screenshot](public/img/page2.png)
+
 ## Simple shop example
 
-Made with laravel, tailwindcss and livewire. 
+Made with laravel, tailwindcss and livewire.
 
 
 
